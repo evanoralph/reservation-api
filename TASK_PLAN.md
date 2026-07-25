@@ -281,7 +281,7 @@ Track module progress. Execute **one module at a time**. Stop after each module 
 ### Acceptance criteria
 
 - [x] Reviewer can run the project using only the README
-- [ ] GitHub repository URL (add after pushing the repo)
+- [x] GitHub repository URL: https://github.com/evanoralph/reservation-api
 - [ ] Demo video URL (add after Module 14 recording)
 
 ---

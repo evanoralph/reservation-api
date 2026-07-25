@@ -6,7 +6,7 @@ Built with **Express.js**, **TypeScript**, **Supabase (PostgreSQL)**, and deploy
 
 ## Important Links
 
-- GitHub Repository: [Add link]
+- GitHub Repository: https://github.com/evanoralph/reservation-api
 - Deployed API: https://inventory-reservation-api-one.vercel.app
 - Swagger UI: https://inventory-reservation-api-one.vercel.app/docs
 - OpenAPI JSON: https://inventory-reservation-api-one.vercel.app/openapi.json
