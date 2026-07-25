@@ -49,4 +49,6 @@ app.use(errorHandler);
 
 console.log('[app] Error handlers registered: notFound, errorHandler');
 
+// Named export for local imports; default export required by Vercel Express runtime.
 export { app };
+export default app;

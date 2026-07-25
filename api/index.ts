@@ -1,6 +1,6 @@
 import { env } from '../src/config/env';
 import '../src/config/supabase';
-import { app } from '../src/app';
+import app from '../src/app';
 
 console.log('[vercel] Serverless Express app exported', {
   NODE_ENV: env.NODE_ENV,
@@ -9,6 +9,7 @@ console.log('[vercel] Serverless Express app exported', {
 
 /**
  * Vercel serverless entry point.
- * vercel.json rewrites all routes to /api.
+ * vercel.json sets framework=null and rewrites all routes to /api
+ * so Express auto-detect does not also bind src/app.ts incorrectly.
  */
 export default app;
