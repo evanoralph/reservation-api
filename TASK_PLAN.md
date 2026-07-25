@@ -293,26 +293,26 @@ Track module progress. Execute **one module at a time**. Stop after each module 
 ### Tasks
 
 - [x] Write timed demo shot list + commands (`DEMO_CHECKLIST.md`)
-- [ ] Record 5–10 minute demo covering all checklist items
-- [ ] Upload video and add URL to README Important Links
-- [ ] Add GitHub repository URL to README Important Links
+- [x] Record 5–10 minute demo covering all checklist items
+- [x] Upload video and add URL to README Important Links
+- [x] Add GitHub repository URL to README Important Links
 
 ### Recording checklist (from assignment)
 
-- [ ] Repository and README
-- [ ] `.env.example`
-- [ ] SQL migration
-- [ ] Starting the API locally
-- [ ] Swagger UI
-- [ ] Creating an item with quantity five
-- [ ] Getting item status
-- [ ] Creating a reservation
-- [ ] Showing held and available quantities
-- [ ] Cancelling or expiring a reservation
-- [ ] Showing inventory becoming available again
-- [ ] Confirming a reservation
-- [ ] Confirming it again to prove retry safety
-- [ ] Running the concurrency test
-- [ ] Showing Supabase table data
-- [ ] Showing the deployed Vercel API
-- [ ] Showing all submission links
+- [x] Repository and README
+- [x] `.env.example`
+- [x] SQL migration
+- [x] Starting the API locally
+- [x] Swagger UI
+- [x] Creating an item with quantity five
+- [x] Getting item status
+- [x] Creating a reservation
+- [x] Showing held and available quantities
+- [x] Cancelling or expiring a reservation
+- [x] Showing inventory becoming available again
+- [x] Confirming a reservation
+- [x] Confirming it again to prove retry safety
+- [x] Running the concurrency test
+- [x] Showing Supabase table data
+- [x] Showing the deployed Vercel API
+- [x] Showing all submission links
